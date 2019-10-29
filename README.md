@@ -8,36 +8,35 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 
 ### Android
 
-- [Android Dev Summit 2019](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_xXXubDti2eRnIKU0p7wHd)
-- [Droidcon Italy 2019](https://www.youtube.com/playlist?list=PL4ebO4PmeAi6jtfp4QcZCEIQ3mBSgq-ck)
-- [Droidcon London 2019](https://skillsmatter.com/conferences/11785-droidcon-london-2019#skillscasts)
-- [Droidcon NYC 2019](https://www.droidcon.com/videos?path=NewYork%20City)
-- [Droidcon Vietnam 2019](https://www.youtube.com/playlist?list=PL4ebO4PmeAi6jtfp4QcZCEIQ3mBSgq-ck)
-- [Droidcon Lisbon 2019](https://www.youtube.com/playlist?list=PLPXWhj_QEAWLsKUC0hBqqqi2w2Lp6jmkn)
-- [Android and Google Play at Google I/O 2019](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9FfSQIRXEWyWpHD6TtwxMM)
-- [Android Makers 2019](https://www.youtube.com/playlist?list=PLn7H9CUCuXAu5r4kT8RcK8B2GuBqMODX3)
+- [Droidcon Italy (Apr 2019)](https://www.youtube.com/playlist?list=PL4ebO4PmeAi6jtfp4QcZCEIQ3mBSgq-ck)
+- [Android Makers (Apr 2019)](https://www.youtube.com/playlist?list=PLn7H9CUCuXAu5r4kT8RcK8B2GuBqMODX3)
+- [Android and Google Play at Google I/O (May 2019)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9FfSQIRXEWyWpHD6TtwxMM)
+- [Droidcon NYC (Aug 2019)](https://www.droidcon.com/videos?path=NewYork%20City)
+- [Droidcon Vietnam (Jul 2019)](https://www.youtube.com/playlist?list=PL4ebO4PmeAi6jtfp4QcZCEIQ3mBSgq-ck)
+- [Droidcon Lisbon (Sep 2019)](https://www.youtube.com/playlist?list=PLPXWhj_QEAWLsKUC0hBqqqi2w2Lp6jmkn)
+- [Android Dev Summit (Oct 2019)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_xXXubDti2eRnIKU0p7wHd)
+- [Droidcon London (Oct 2019)](https://skillsmatter.com/conferences/11785-droidcon-london-2019#skillscasts)
 
 ### Kotlin
 
-- [Conference for Kotliners 2019](https://www.youtube.com/playlist?list=PLnYRVL0Cw1FSUJ-WdhV2Ija9kA9q0qP3e)
-- Kotlin Konf 2019 (not available yet)
+- [Conference for Kotliners (Jun 2019)](https://www.youtube.com/playlist?list=PLnYRVL0Cw1FSUJ-WdhV2Ija9kA9q0qP3e)
 
 ## 2018
 
 ### Android
 
-- [Droidcon NYC 2018](https://www.youtube.com/playlist?list=PLdb5m83JnoaBqMWF-qqhZY_01SNEhG5Qs)
-- [Droidcon Italy 2018](https://www.youtube.com/playlist?list=PL4ebO4PmeAi4-3fhc8rD-IRQcsiK-tXQP)
-- [Droidcon SF 2018](https://www.youtube.com/playlist?list=PLYioXtkIMlS9CMDDq3TcmxXsC455x6_XL)
-- [Droidcon Berlin 2018](https://www.youtube.com/playlist?list=PL9Pfzam3fFdcu8mJ675LE7iR4gj8G60sp)
-- [Android Dev Summit 2018](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8WFYCR9esqGGY0vOZm2l6e)
-- [Android and Google Play at Google I/O 2018](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9Gq6FEnSXClhYkWAStbwlC)
-- [Android Makers 2018](https://www.youtube.com/playlist?list=PLn7H9CUCuXAus0YgFW7QiIpnwHJd3Yinw)
+- [Android Makers (Apr 2018)](https://www.youtube.com/playlist?list=PLn7H9CUCuXAus0YgFW7QiIpnwHJd3Yinw)
+- [Droidcon Italy (Apr 2018)](https://www.youtube.com/playlist?list=PL4ebO4PmeAi4-3fhc8rD-IRQcsiK-tXQP)
+- [Android and Google Play at Google I/O (May 2018)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9Gq6FEnSXClhYkWAStbwlC)
+- [Droidcon Berlin (Jul 2018)](https://www.youtube.com/playlist?list=PL9Pfzam3fFdcu8mJ675LE7iR4gj8G60sp)
+- [Droidcon NYC (Aug 2018)](https://www.youtube.com/playlist?list=PLdb5m83JnoaBqMWF-qqhZY_01SNEhG5Qs)
+- [Android Dev Summit (Oct 2018)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8WFYCR9esqGGY0vOZm2l6e)
+- [Droidcon SF (Nov 2018)](https://www.youtube.com/playlist?list=PLYioXtkIMlS9CMDDq3TcmxXsC455x6_XL)
 
 ### Kotlin
 
-- [Kotlin Konf 2018](https://www.youtube.com/playlist?list=PLQ176FUIyIUbVvFMqDc2jhxS-t562uytr)
-- [Conference for Kotliners 2018](https://www.youtube.com/playlist?list=PLnYRVL0Cw1FT5LO1r3QWku_VyY1H1et7w)
+- [Conference for Kotliners (Jun 2018)](https://www.youtube.com/playlist?list=PLnYRVL0Cw1FT5LO1r3QWku_VyY1H1et7w)
+- [Kotlin Konf (Oct 2018)](https://www.youtube.com/playlist?list=PLQ176FUIyIUbVvFMqDc2jhxS-t562uytr)
 
 ## Inspiration
 
