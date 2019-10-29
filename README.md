@@ -12,6 +12,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 - [Droidcon Italy 2019](https://www.youtube.com/playlist?list=PL4ebO4PmeAi6jtfp4QcZCEIQ3mBSgq-ck)
 - [Droidcon London 2019](https://skillsmatter.com/conferences/11785-droidcon-london-2019#skillscasts)
 - [Droidcon Vietnam 2019](https://www.youtube.com/playlist?list=PL4ebO4PmeAi6jtfp4QcZCEIQ3mBSgq-ck)
+- [Droidcon Lisbon 2019](https://www.youtube.com/playlist?list=PLPXWhj_QEAWLsKUC0hBqqqi2w2Lp6jmkn)
 - [Android and Google Play at Google I/O 2019](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9FfSQIRXEWyWpHD6TtwxMM)
 - [Android Makers 2019](https://www.youtube.com/playlist?list=PLn7H9CUCuXAu5r4kT8RcK8B2GuBqMODX3)
 
