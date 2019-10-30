@@ -44,6 +44,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 
 Few resources with current list of upcoming mobile conferences.
 
+- [Android Study Group: Android Conferences](https://androidstudygroup.github.io/conferences/)
 - [Mobile Conferences & Events 2019 / 2020](https://docs.google.com/spreadsheets/d/1HU-HGlUyjruHUyimv3L0CY8Kn0UBaFAIiKNrCu1TQPc/edit#gid=1739888262)
 - [Complete List of Mobile (iOS and Android) Conferences in 2019](https://bugfender.com/conferences/)
 
