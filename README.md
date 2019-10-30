@@ -38,7 +38,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 ### Kotlin
 
 - [Conference for Kotliners (Jun 2018)](https://www.youtube.com/playlist?list=PLnYRVL0Cw1FT5LO1r3QWku_VyY1H1et7w)
-- [Kotlin Konf (Oct 2018)](https://www.youtube.com/playlist?list=PLQ176FUIyIUbVvFMqDc2jhxS-t562uytr)
+- [KotlinConf (Oct 2018)](https://www.youtube.com/playlist?list=PLQ176FUIyIUbVvFMqDc2jhxS-t562uytr)
 
 ## Inspiration
 
