@@ -26,9 +26,9 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 
 ### Android
 
-- [Droidcon SF (Nov 2018)](https://www.youtube.com/playlist?list=PLYioXtkIMlS9CMDDq3TcmxXsC455x6_XL)
 - [Droidcon London (Oct 2018)](https://skillsmatter.com/conferences/10301-droidcon-london-2018#skillscasts)
 - [Android Dev Summit (Oct 2018)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8WFYCR9esqGGY0vOZm2l6e)
+- [Droidcon SF (Nov 2018)](https://www.youtube.com/playlist?list=PLYioXtkIMlS9CMDDq3TcmxXsC455x6_XL)
 - [Droidcon NYC (Aug 2018)](https://www.youtube.com/playlist?list=PLdb5m83JnoaBqMWF-qqhZY_01SNEhG5Qs)
 - [Droidcon Berlin (Jun 2018)](https://www.youtube.com/playlist?list=PL9Pfzam3fFdcu8mJ675LE7iR4gj8G60sp)
 - [Android and Google Play at Google I/O (May 2018)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9Gq6FEnSXClhYkWAStbwlC)
@@ -50,7 +50,7 @@ Few resources with current list of upcoming mobile conferences.
 
 ## Contribute
 
-Feedback and new contributions are welcome whether it's through issue reports or new PRs.
+Feedback and new contributions are welcome whether it's through issue reports or new PRs (place newest conferences at the top).
 
 ## Author
 
