@@ -20,8 +20,8 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 
 ### Kotlin
 
-- [Kotlin/Everywhere San Salvador 2019 (Oct 2019)](https://www.youtube.com/playlist?list=PLMVVX8KNuYriiM1W8HpyXfkTqnRNt3S-z)
-- [Kotlin/Everywhere Chicago 2019 (Jul 2019)](https://www.youtube.com/playlist?list=PLb1tSwQ0ReIFFJbVpbNGIvmELaucyBTaL)
+- [Kotlin/Everywhere San Salvador (Oct 2019)](https://www.youtube.com/playlist?list=PLMVVX8KNuYriiM1W8HpyXfkTqnRNt3S-z)
+- [Kotlin/Everywhere Chicago (Jul 2019)](https://www.youtube.com/playlist?list=PLb1tSwQ0ReIFFJbVpbNGIvmELaucyBTaL)
 - [Conference for Kotliners (Jun 2019)](https://www.youtube.com/playlist?list=PLnYRVL0Cw1FSUJ-WdhV2Ija9kA9q0qP3e)
 - [Kotlin/Everywhere Bangalore 2019 (Jun 2019)](https://www.youtube.com/playlist?list=PLQ176FUIyIUaGo4LInr-M4pDDBfXX70kd)
 
