@@ -19,7 +19,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 - [Android Makers (Apr 2019)](https://www.youtube.com/playlist?list=PLn7H9CUCuXAu5r4kT8RcK8B2GuBqMODX3)
 
 ### Kotlin
-- [KotlinConf (Dec 2019)](https://www.youtube.com/playlist?list=PLQ176FUIyIUY6SKGl3Cj9yeYibBuRr3Hl)(partial)
+- [KotlinConf (Dec 2019)](https://www.youtube.com/playlist?list=PLQ176FUIyIUY6SKGl3Cj9yeYibBuRr3Hl)
 - [Kotlin/Everywhere San Salvador (Oct 2019)](https://www.youtube.com/playlist?list=PLMVVX8KNuYriiM1W8HpyXfkTqnRNt3S-z)
 - [Kotlin/Everywhere Chicago (Jul 2019)](https://www.youtube.com/playlist?list=PLb1tSwQ0ReIFFJbVpbNGIvmELaucyBTaL)
 - [Conference for Kotliners (Jun 2019)](https://www.youtube.com/playlist?list=PLnYRVL0Cw1FSUJ-WdhV2Ija9kA9q0qP3e)
