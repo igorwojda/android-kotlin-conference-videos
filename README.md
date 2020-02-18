@@ -8,12 +8,11 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 
 ### Android
 
-- [Android Dev Summit (Oct 2019)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_xXXubDti2eRnIKU0p7wHd)
-- [Droidcon Lisbon (Sep 2019)](https://www.youtube.com/playlist?list=PLPXWhj_QEAWLsKUC0hBqqqi2w2Lp6jmkn)
 - [Droidcon SF (Nov 2019)](https://www.droidcon.com/videos?path=San%20Francisco/2019)
 - [Droidcon London (Oct 2019)](https://www.droidcon.com/videos?path=London/2019)
+- [Android Dev Summit (Oct 2019)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_xXXubDti2eRnIKU0p7wHd)
+- [Droidcon Lisbon (Sep 2019)](https://www.youtube.com/playlist?list=PLPXWhj_QEAWLsKUC0hBqqqi2w2Lp6jmkn)
 - [Droidcon NYC (Aug 2019)](https://www.droidcon.com/videos?path=New%20York%20City/2019)
-- [Droidcon Turin (Apr 2019)](https://www.droidcon.com/videos?path=Turin/2019)
 - [Droidcon Vietnam (Jul 2019)](https://www.youtube.com/playlist?list=PLHn58DBdDFkrhLCbtzashZYuMapIBWT2b)
 - [Droidcon Berlin (Jul 2019)](https://www.droidcon.com/videos?path=Berlin/2019)
 - [Android and Google Play at Google I/O (May 2019)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9FfSQIRXEWyWpHD6TtwxMM)
