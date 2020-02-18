@@ -18,7 +18,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 - [Droidcon Vietnam (Jul 2019)](https://www.youtube.com/playlist?list=PLHn58DBdDFkrhLCbtzashZYuMapIBWT2b)
 - [Droidcon Berlin (Jul 2019)](https://www.droidcon.com/videos?path=Berlin/2019)
 - [Android and Google Play at Google I/O (May 2019)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9FfSQIRXEWyWpHD6TtwxMM)
-- [Droidcon Italy (Apr 2019)](https://www.youtube.com/playlist?list=PL4ebO4PmeAi6jtfp4QcZCEIQ3mBSgq-ck)
+- [Droidcon Italy (Apr 2019)](https://www.droidcon.com/videos?path=Turin/2019)
 - [Android Makers (Apr 2019)](https://www.youtube.com/playlist?list=PLn7H9CUCuXAu5r4kT8RcK8B2GuBqMODX3)
 
 ### Kotlin
