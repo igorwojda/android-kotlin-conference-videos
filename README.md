@@ -8,7 +8,6 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 
 ### Android
 
-- Droidcon London (Oct 2019)(videos are not available any more)
 - [Android Dev Summit (Oct 2019)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_xXXubDti2eRnIKU0p7wHd)
 - [Droidcon Lisbon (Sep 2019)](https://www.youtube.com/playlist?list=PLPXWhj_QEAWLsKUC0hBqqqi2w2Lp6jmkn)
 - [Droidcon SF (Nov 2019)](https://www.droidcon.com/videos?path=San%20Francisco/2019)
