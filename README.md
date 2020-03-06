@@ -1,6 +1,6 @@
 # Android and Kotlin conference videos
 
-This repo contains collection of video sessions (playlists) from various Android and Kotlin conferences.
+This repo contains collection of talks (video playlists) from various Android and Kotlin related conferences.
 
 It will be handy in case you missed any of the sessions or just want to go re-watch the recordings. Enjoy!
 
