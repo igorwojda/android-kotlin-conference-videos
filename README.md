@@ -8,7 +8,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 
 ### Android
 
-- [Droidcon Online (Apr 2019)](https://www.droidcon.com/videos?path=droidcon%20Online)
+- [Droidcon Online (Apr 2020)](https://www.droidcon.com/videos?path=droidcon%20Online)
 
 ## 2019
 
