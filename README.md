@@ -4,6 +4,12 @@ This repo contains collection of talks (video playlists) from various Android an
 
 It will be handy in case you missed any of the sessions or just want to go re-watch the recordings. Enjoy!
 
+## 2020
+
+### Android
+
+- [Droidcon Online (Apr 2019)](https://www.droidcon.com/videos?path=droidcon%20Online)
+
 ## 2019
 
 ### Android
