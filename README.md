@@ -9,7 +9,11 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 ### Android
 
 - [Android Makers (Apr 2020)](https://www.youtube.com/playlist?list=PLn7H9CUCuXAsILGb3mNo654e2G-d9K_I1)
-- [Droidcon Online (Apr 2020)](https://www.droidcon.com/videos?path=droidcon%20Online)
+- [Droidcon Online (Apr 2020)(new videos are being added)](https://www.droidcon.com/videos?path=droidcon%20Online)
+
+### Kotlin
+
+- [47 Degrees Academy (June 2020)(new videos are being added)](https://www.youtube.com/playlist?list=PLTx-VKTe8yLyr2ExNXf6O81C07GJ6WgV1)
 
 ## 2019
 
