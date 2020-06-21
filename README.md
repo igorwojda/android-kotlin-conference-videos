@@ -55,6 +55,18 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 - [KotlinConf (Oct 2018)](https://www.youtube.com/playlist?list=PLQ176FUIyIUbVvFMqDc2jhxS-t562uytr)
 - [Conference for Kotliners (Jun 2018)](https://www.youtube.com/playlist?list=PLnYRVL0Cw1FT5LO1r3QWku_VyY1H1et7w)
 
+## 2017
+
+### Android
+
+- [Droidcon Berlin (Sep 2017)](https://www.youtube.com/playlist?list=PL9Pfzam3fFddDjRJyE1UU3CuAdfGwGYeB)
+
+## 2016
+
+### Android
+
+- [360|AnDev (Jul 2016)](https://www.youtube.com/playlist?list=PLZWjyme3DCQF6KKDZfLcqPe3v9jgt8olt)
+
 ## Inspiration
 
 Few resources with current list of upcoming mobile conferences.
