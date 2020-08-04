@@ -14,6 +14,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 ### Kotlin
 
 - [47 Degrees Academy (June 2020)(new videos are being added)](https://www.youtube.com/playlist?list=PLTx-VKTe8yLyr2ExNXf6O81C07GJ6WgV1)
+- [Kotliners (June 2020)](https://www.youtube.com/watch?v=5qcpq6jnrXI&list=PLnYRVL0Cw1FQRDYpKQ8kbcg2-K8I9k1RH)
 
 ## 2019
 
@@ -76,7 +77,7 @@ Feedback and new contributions are welcome whether it's through issue reports or
 ```
 MIT License
 
-Copyright (c) 2019 Igor Wojda
+Copyright (c) 2020 Igor Wojda
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and 
 associated documentation files (the "Software"), to deal in the Software without restriction, including 
