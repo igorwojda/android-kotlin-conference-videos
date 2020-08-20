@@ -8,6 +8,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 
 ### Android
 
+- [360|AnDev (Jul 2020)(new videos are being added)](https://www.youtube.com/playlist?list=PLnD_TKDSaFyXWrnnEhfxeKABuq49Is-8o)
 - [Android Makers (Apr 2020)](https://www.youtube.com/playlist?list=PLn7H9CUCuXAsILGb3mNo654e2G-d9K_I1)
 - [Droidcon Online (Apr 2020)(new videos are being added)](https://www.droidcon.com/videos?path=droidcon%20Online)
 
