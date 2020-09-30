@@ -8,6 +8,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 
 ### Android
 
+- [Android Security Symposium (Jul 2020)](https://www.youtube.com/c/usmileAT-mobile-security/videos)
 - [360|AnDev (Jul 2020)](https://www.youtube.com/playlist?list=PLnD_TKDSaFyXWrnnEhfxeKABuq49Is-8o)
 - [Android Makers (Apr 2020)](https://www.youtube.com/playlist?list=PLn7H9CUCuXAsILGb3mNo654e2G-d9K_I1)
 - [Droidcon Online (Apr 2020)(new videos are being added)](https://www.droidcon.com/videos?path=droidcon%20Online)
@@ -25,6 +26,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 - [Droidcon London (Oct 2019)](https://www.droidcon.com/videos?path=London/2019)
 - [Android Dev Summit (Oct 2019)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_xXXubDti2eRnIKU0p7wHd)
 - [Droidcon Lisbon (Sep 2019)](https://www.youtube.com/playlist?list=PLPXWhj_QEAWLsKUC0hBqqqi2w2Lp6jmkn)
+- [Android Summit (Aug 2019)](https://www.youtube.com/playlist?list=PLzJZrgVJE8BZqXB8jXMJOkMJmA1VxxCp7)
 - [Droidcon NYC (Aug 2019)](https://www.droidcon.com/videos?path=New%20York%20City/2019)
 - [Droidcon Vietnam (Jul 2019)](https://www.youtube.com/playlist?list=PLHn58DBdDFkrhLCbtzashZYuMapIBWT2b)
 - [Droidcon Berlin (Jul 2019)](https://www.droidcon.com/videos?path=Berlin/2019)
@@ -46,6 +48,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 - [Droidcon London (Oct 2018)](https://skillsmatter.com/conferences/10301-droidcon-london-2018#skillscasts)
 - [Android Dev Summit (Oct 2018)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8WFYCR9esqGGY0vOZm2l6e)
 - [Droidcon SF (Nov 2018)](https://www.youtube.com/playlist?list=PLYioXtkIMlS9CMDDq3TcmxXsC455x6_XL)
+- [Android Summit (Aug 2018)](https://www.youtube.com/playlist?list=PLzJZrgVJE8BbctT8_LBqUUHDzFTjKsEkU)
 - [Droidcon NYC (Aug 2018)](https://www.youtube.com/playlist?list=PLdb5m83JnoaBqMWF-qqhZY_01SNEhG5Qs)
 - [Droidcon Berlin (Jun 2018)](https://www.youtube.com/playlist?list=PL9Pfzam3fFdcu8mJ675LE7iR4gj8G60sp)
 - [Android and Google Play at Google I/O (May 2018)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9Gq6FEnSXClhYkWAStbwlC)
