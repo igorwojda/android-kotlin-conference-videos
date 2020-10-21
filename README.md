@@ -17,7 +17,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 
 ### Kotlin
 
-- [Kotlin 1.4 Online Event (Oct 2020)](https://kotlinlang.org/lp/event-14/)
+- [Kotlin 1.4 Online Event (Oct 2020)](https://www.youtube.com/playlist?list=PLQ176FUIyIUankIQrXKNfXaOxOPx04D8V)
 - [47 Degrees Academy (Jun 2020)](https://www.youtube.com/playlist?list=PLTx-VKTe8yLyr2ExNXf6O81C07GJ6WgV1)
 - [Kotliners (Jun 2020)](https://www.youtube.com/watch?v=5qcpq6jnrXI&list=PLnYRVL0Cw1FQRDYpKQ8kbcg2-K8I9k1RH)
 
