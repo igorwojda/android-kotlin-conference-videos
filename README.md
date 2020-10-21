@@ -8,15 +8,18 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 
 ### Android
 
-- [Android Security Symposium (Jul 2020)](https://www.youtube.com/c/usmileAT-mobile-security/videos)
+- [Droidcon EMEA (Oct 2020)](https://www.droidcon.com/videos?path=droidcon%20EMEA)
+- [DevFest UK & Ireland (Oct 2020)](https://www.youtube.com/playlist?list=PLGCUisAoTVvFAZPVqSx54snMBTXw798Jr)
+- [Android Security Symposium (Jul 2020)](https://www.youtube.com/playlist?list=PL61IkVbNYniUTmprGxMnlUFxmFj79Wmpw)
 - [360|AnDev (Jul 2020)](https://www.youtube.com/playlist?list=PLnD_TKDSaFyXWrnnEhfxeKABuq49Is-8o)
 - [Android Makers (Apr 2020)](https://www.youtube.com/playlist?list=PLn7H9CUCuXAsILGb3mNo654e2G-d9K_I1)
-- [Droidcon Online (Apr 2020)(new videos are being added)](https://www.droidcon.com/videos?path=droidcon%20Online)
+- [Droidcon Online (Apr 2020)](https://www.droidcon.com/videos?path=droidcon%20Online)
 
 ### Kotlin
 
-- [47 Degrees Academy (June 2020)(new videos are being added)](https://www.youtube.com/playlist?list=PLTx-VKTe8yLyr2ExNXf6O81C07GJ6WgV1)
-- [Kotliners (June 2020)](https://www.youtube.com/watch?v=5qcpq6jnrXI&list=PLnYRVL0Cw1FQRDYpKQ8kbcg2-K8I9k1RH)
+- [Kotlin 1.4 Online Event (Oct 2020)](https://kotlinlang.org/lp/event-14/)
+- [47 Degrees Academy (Jun 2020)](https://www.youtube.com/playlist?list=PLTx-VKTe8yLyr2ExNXf6O81C07GJ6WgV1)
+- [Kotliners (Jun 2020)](https://www.youtube.com/watch?v=5qcpq6jnrXI&list=PLnYRVL0Cw1FQRDYpKQ8kbcg2-K8I9k1RH)
 
 ## 2019
 
