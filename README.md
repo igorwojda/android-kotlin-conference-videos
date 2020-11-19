@@ -7,7 +7,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 ## 2020
 
 ### Android
-- [Droidcon Americcas (Nov 2020)](https://www.droidcon.com/videos?path=droidcon%20Americas)
+- [Droidcon Americas (Nov 2020)](https://www.droidcon.com/videos?path=droidcon%20Americas)
 - [Droidcon EMEA (Oct 2020)](https://www.droidcon.com/videos?path=droidcon%20EMEA)
 - [DevFest UK & Ireland (Oct 2020)](https://www.youtube.com/playlist?list=PLGCUisAoTVvFAZPVqSx54snMBTXw798Jr)
 - [Android Security Symposium (Jul 2020)](https://www.youtube.com/playlist?list=PL61IkVbNYniUTmprGxMnlUFxmFj79Wmpw)
