@@ -8,6 +8,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 
 ### Android
 
+- [Droidcon APAC (Dec 2020)](https://www.droidcon.com/videos?path=%20droidcon%20APAC)
 - [MobileOptimized (Nov 2020)](https://www.youtube.com/playlist?list=PLpVeA1tdgfCAEG_WDyLKoHDxmsGocQaX6)
 - [Droidcon Americas (Nov 2020)](https://www.droidcon.com/videos?path=droidcon%20Americas)
 - [Android Summit (Oct 2020)](https://www.youtube.com/playlist?list=PLzJZrgVJE8BYZvsHFe2M3FjjTmjbcT6hH)
