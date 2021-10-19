@@ -4,6 +4,24 @@ This repo contains collection of talks (video playlists) from various Android an
 
 It will be handy in case you missed any of the sessions or just want to go re-watch the recordings. Enjoy!
 
+## 2021
+
+### Android
+
+- [Android Heroes Live (Jul 2021)](https://www.youtube.com/playlist?list=PL4ebO4PmeAi5qVzDbcM5mfbCnMHYy1stH)
+- [Android Worldwide (Jul 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70Fg0R0-wFb5k_JyiP1jb9yD)
+- [360|AnDev (Jul 2021)](https://360andev.com/session-recordings/)
+- [Google I/O (May 2021)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJhsF3up2ueu2pRealr9raD)
+- [Android Worldwide (Apr 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70GUtfuASzNNad9KTHnVZ49n)
+- [Devoxx France (Apr 2021)](https://www.youtube.com/watch?v=zCMra9RgCzw&list=PLTbQvx84FrATz-mQ5-C6U7vr8shnC_C3i)
+- [DevProdEng Showdown Android at Scale (Jan 2021)](https://www.youtube.com/playlist?list=PLLQbIfXVLZqHiRLgGIsFI9D5CRhhjCSAi)
+- [Android Worldwide (Jan 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70Ft1bZIknFRyqI4RONtoF3O)
+
+### Kotlin
+
+- [Kotlin Premier Online Event (Oct 2021)](https://www.youtube.com/playlist?list=PLlFc5cFwUnmxS9GQ0HtzUG1a7WQ2cvF6U)
+- [FOSDEM - Kotlin DevRoom (Feb 2021)](https://archive.fosdem.org/2021/schedule/track/kotlin/)
+
 ## 2020
 
 ### Android
@@ -14,6 +32,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 - [Android Summit (Oct 2020)](https://www.youtube.com/playlist?list=PLzJZrgVJE8BYZvsHFe2M3FjjTmjbcT6hH)
 - [Droidcon EMEA (Oct 2020)](https://www.droidcon.com/videos?path=droidcon%20EMEA)
 - [DevFest UK & Ireland (Oct 2020)](https://www.youtube.com/playlist?list=PLGCUisAoTVvFAZPVqSx54snMBTXw798Jr)
+- [Android Worldwide (Sep 2020)](https://www.youtube.com/playlist?list=PLjQD4n5Df70HDqTHI_xT7U_SnbAeZyqVa)
 - [Android Security Symposium (Jul 2020)](https://www.youtube.com/playlist?list=PL61IkVbNYniUTmprGxMnlUFxmFj79Wmpw)
 - [360|AnDev (Jul 2020)](https://www.youtube.com/playlist?list=PLnD_TKDSaFyXWrnnEhfxeKABuq49Is-8o)
 - [Android Makers (Apr 2020)](https://www.youtube.com/playlist?list=PLn7H9CUCuXAsILGb3mNo654e2G-d9K_I1)
