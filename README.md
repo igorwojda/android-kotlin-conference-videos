@@ -1,12 +1,13 @@
 # Android and Kotlin conference videos
 
-This repo contains collection of talks (video playlists) from various Android and Kotlin related conferences.
+This repo contains a collection of talks (video playlists) from various Android and Kotlin related conferences.
 
 It will be handy in case you missed any of the sessions or just want to go re-watch the recordings. Enjoy!
 
 ## 2021
 
 ### Android
+- [Droidcon Berlin (July 2022)](https://www.droidcon.com/content/?filter_postyear=2022&filter_post_event_tag=droidcon-berlin)
 - [Droidcon London (Oct 2021)](https://www.droidcon.com/content/?filter_postyear=2021&filter_post_event_tag=droidcon-london)
 - [Droidcon Berlin (Oct 2021)](https://www.droidcon.com/content/?filter_postyear=2021&filter_post_event_tag=droidcon-berlin)
 - [Android Dev Summit (Oct 2021)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_KamvEnBDJrBptAfQni7Ig)
