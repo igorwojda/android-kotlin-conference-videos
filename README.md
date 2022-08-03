@@ -7,7 +7,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 ## 2021
 
 ### Android
-
+- [Droidcon London (Oct 2021)](https://www.droidcon.com/content/?filter_postyear=2021&filter_post_event_tag=droidcon-london)
 - [Droidcon Berlin (Oct 2021)](https://www.droidcon.com/content/?filter_postyear=2021&filter_post_event_tag=droidcon-berlin)
 - [Android Dev Summit (Oct 2021)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_KamvEnBDJrBptAfQni7Ig)
 - [Android Heroes Live (Jul 2021)](https://www.youtube.com/playlist?list=PL4ebO4PmeAi5qVzDbcM5mfbCnMHYy1stH)
