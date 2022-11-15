@@ -7,6 +7,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 ## 2021
 
 ### Android
+- [Droidcon London (Oct 2023)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2022&filter_post_event_tag=droidcon-london)
 - [Droidcon New Yourk (Oct 2022)](https://www.droidcon.com/content/?filter_category=video&filter_post_event_tag=droidcon-new-york)
 - [Droidcon Berlin (July 2022)](https://www.droidcon.com/content/?filter_postyear=2022&filter_post_event_tag=droidcon-berlin)
 - [Droidcon London (Oct 2021)](https://www.droidcon.com/content/?filter_postyear=2021&filter_post_event_tag=droidcon-london)
