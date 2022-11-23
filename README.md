@@ -10,6 +10,11 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 - [Droidcon London (Oct 2022)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2022&filter_post_event_tag=droidcon-london)
 - [Droidcon New York (Oct 2022)](https://www.droidcon.com/content/?filter_category=video&filter_post_event_tag=droidcon-new-york)
 - [Droidcon Berlin (July 2022)](https://www.droidcon.com/content/?filter_postyear=2022&filter_post_event_tag=droidcon-berlin)
+- [Android Dev Summit (Nov 2022)](https://developer.android.com/events/dev-summit)
+  - [Keynote](https://www.youtube.com/watch?v=Og2p9LczE3A)
+  - [Modern Android Development track](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_L3n1j4ajHjJ6QccFUvW1u)
+  - [Form Factors track](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9jBnpl83LH6oZc7nFIVSRq)
+  - [Platform track](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8PO99T1QQLrPAJILqxJXW6)
 
 
 ## 2021
