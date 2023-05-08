@@ -8,7 +8,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 
 ### Kotlin
 
-- [Kotlin Konf(Apr 2023)](https://www.youtube.com/playlist?list=PLlFc5cFwUnmwcJ7ZXyMmS70A9QFyUu1HI)
+- [KotlinConf (Apr 2023)](https://www.youtube.com/playlist?list=PLlFc5cFwUnmwcJ7ZXyMmS70A9QFyUu1HI)
 
 
 ## 2022
