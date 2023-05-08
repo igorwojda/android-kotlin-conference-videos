@@ -4,6 +4,13 @@ This repo contains a collection of talks (video playlists) from various Android 
 
 It will be handy in case you missed any of the sessions or just want to go re-watch the recordings. Enjoy!
 
+## 2023
+
+### Kotlin
+
+- [Kotlin Konf(Apr 2023)](https://www.youtube.com/playlist?list=PLlFc5cFwUnmwcJ7ZXyMmS70A9QFyUu1HI)
+
+
 ## 2022
 
 ### Android
