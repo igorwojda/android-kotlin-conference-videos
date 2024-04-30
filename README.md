@@ -8,13 +8,12 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 
 ### Android
 
-- [Women Who Code Mobile and Web Summit](https://www.youtube.com/playlist?list=PLVcEZG2JPVhcsPbafTBnDXe4hdJx5rmc_&pp=iAQB)
-
-- [Android Makers](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=androidmakers-by-droidcon)
-- [droidcon Berlin](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=droidcon-berlin)
-- [droidcon London](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=droidcon-london)
-- [droidcon New York](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=droidcon-new-york)
-- [droidcon San Francisco](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=droidcon_san_francisco)
+- [Women Who Code Mobile and Web Summit (Jul 2023)](https://www.youtube.com/playlist?list=PLVcEZG2JPVhcsPbafTBnDXe4hdJx5rmc_&pp=iAQB)
+- [Android Makers (Apr 2023)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=androidmakers-by-droidcon)
+- [droidcon Berlin (Jul 2023)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=droidcon-berlin)
+- [droidcon London (Oct 2023)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=droidcon-london)
+- [droidcon New York (Sep 2023)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=droidcon-new-york)
+- [droidcon San Francisco (Jun 2023)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=droidcon_san_francisco)
 - [DroidKaigi (Sept 2023)](https://www.youtube.com/playlist?list=PLaOdaBFokChwtpZX8UuxS0CeJ4GOHLnH3)
 - [droidcon Italy (Oct 2023)](https://www.youtube.com/playlist?list=PL4ebO4PmeAi5CO3V4wExWNVGliSkZW42j)
 - Android Worldwide
