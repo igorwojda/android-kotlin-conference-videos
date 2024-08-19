@@ -6,27 +6,62 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 
 ## 2023
 
+### Android
+
+- [Women Who Code Mobile and Web Summit (Jul 2023)](https://www.youtube.com/playlist?list=PLVcEZG2JPVhcsPbafTBnDXe4hdJx5rmc_&pp=iAQB)
+- [Android Makers (Apr 2023)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=androidmakers-by-droidcon)
+- [droidcon Berlin (Jul 2023)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=droidcon-berlin)
+- [droidcon London (Oct 2023)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=droidcon-london)
+- [droidcon New York (Sep 2023)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=droidcon-new-york)
+- [droidcon San Francisco (Jun 2023)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=droidcon_san_francisco)
+- [DroidKaigi (Sept 2023)](https://www.youtube.com/playlist?list=PLaOdaBFokChwtpZX8UuxS0CeJ4GOHLnH3)
+- [droidcon Italy (Oct 2023)](https://www.youtube.com/playlist?list=PL4ebO4PmeAi5CO3V4wExWNVGliSkZW42j)
+- Android Worldwide
+  - [January (Jan 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70EaU9HRznSmV9CuT4bx1_VV)
+  - [April (Apr 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70FSxHcFwKX5LFtllv0Pr0sL)
+  - [July (Jul 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70GCaX0Uv-8hbWTfjZF47BxP)
+  - [October (Oct 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70EYWpCUo9TDLEjAddvBXdrx)
+
 ### Kotlin
 
 - [KotlinConf (Apr 2023)](https://www.youtube.com/playlist?list=PLlFc5cFwUnmwcJ7ZXyMmS70A9QFyUu1HI)
-
+- [FOSDEM - Kotlin DevRoom (Feb 2023)](https://archive.fosdem.org/2023/schedule/track/kotlin/)
 
 ## 2022
 
 ### Android
-- [Droidcon London (Oct 2022)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2022&filter_post_event_tag=droidcon-london)
-- [Droidcon New York (Oct 2022)](https://www.droidcon.com/content/?filter_category=video&filter_post_event_tag=droidcon-new-york)
-- [Droidcon Berlin (July 2022)](https://www.droidcon.com/content/?filter_postyear=2022&filter_post_event_tag=droidcon-berlin)
-- [Android Dev Summit (Nov 2022)](https://developer.android.com/events/dev-summit)
-  - [Keynote](https://www.youtube.com/watch?v=Og2p9LczE3A)
-  - [Modern Android Development track](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_L3n1j4ajHjJ6QccFUvW1u)
-  - [Form Factors track](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9jBnpl83LH6oZc7nFIVSRq)
-  - [Platform track](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8PO99T1QQLrPAJILqxJXW6)
+
+- [Mobile DevOps Summit (Nov 2022)](https://www.youtube.com/playlist?list=PLbKJc0NMPDrB29Ir8q8ABVOyJJZzkUwEN)
+- [Android Makers (Apr 2022)](https://www.youtube.com/playlist?list=PLn7H9CUCuXAuLnmPD-wsljzYxHt3UD5zn)
+- [Chicago Roboto (Aug 2022)](https://www.youtube.com/playlist?list=PLnD_TKDSaFyXk-p956k-4JWSrOIIqw69_)
+- [droidcon Berlin (Jul 2022)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=droidcon-berlin)
+- [droidcon London (Oct 2022)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=droidcon-london)
+- [droidcon New York (Oct 2022)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=droidcon-new-york)
+- [droidcon San Francisco (Jun 2022)](https://www.droidcon.com/content/?filter_category=video&filter_postyear=2023&filter_post_event_tag=droidcon_san_francisco)
+- [AppDevCon (Jun 2022)](https://appdevcon.nl/videos/)
+- [Women Who Code Mobile Summit (Jul 2022)](https://www.youtube.com/playlist?list=PLVcEZG2JPVhf_iA733UhMxPS0H8iCoouj)
+- DroidKaigi (Oct 2022)
+  - [Day 1](https://www.youtube.com/playlist?list=PLaOdaBFokChys9ZKUGTiI6176Mi3Nz6Ks)
+  - [Day 2](https://www.youtube.com/playlist?list=PLaOdaBFokChyjXVKdwMfw6d3Of0Ea1L_C)
+- [droidcon Italy (Oct 2022)](https://www.youtube.com/playlist?list=PL4ebO4PmeAi6nRLcUNXlAIpFy6cY8_FUT)
+- [Android Dev Summit (Nov 2022)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc92MGTd1CgUtXZfhA74nUpb)
+- Android Worldwide
+  - [January (Jan 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70FOVekAd0nYS2eeQLSQzoIz)
+  - [April (Apr 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70H_R71pIJG997WrlZw7_rF4)
+  - [July (Jul 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70FPKs5CaG_fT65eHut1J7ht)
+  - [October (Oct 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70Gn_e2IL1FeXW1z1au78Zit)
+
+### Kotlin
+
+- [FOSDEM - Kotlin DevRoom (Feb 2022)](https://archive.fosdem.org/2022/schedule/track/kotlin/)
+- [Kotlin Dev Day (May 2022)](https://kotlindevday.com/recordings/)
 
 
 ## 2021
 
 ### Android
+
+- [Droidcon Italy (Nov 2021)](https://www.youtube.com/playlist?list=PL4ebO4PmeAi4HcmcoQ5bmYVqLysT2Px7d)
 - [Droidcon London (Oct 2021)](https://www.droidcon.com/content/?filter_postyear=2021&filter_post_event_tag=droidcon-london)
 - [Droidcon Berlin (Oct 2021)](https://www.droidcon.com/content/?filter_postyear=2021&filter_post_event_tag=droidcon-berlin)
 - [Android Dev Summit (Oct 2021)](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_KamvEnBDJrBptAfQni7Ig)
@@ -37,7 +72,11 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 - [Android Worldwide (Apr 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70GUtfuASzNNad9KTHnVZ49n)
 - [Devoxx France (Apr 2021)](https://www.youtube.com/watch?v=zCMra9RgCzw&list=PLTbQvx84FrATz-mQ5-C6U7vr8shnC_C3i)
 - [DevProdEng Showdown Android at Scale (Jan 2021)](https://www.youtube.com/playlist?list=PLLQbIfXVLZqHiRLgGIsFI9D5CRhhjCSAi)
-- [Android Worldwide (Jan 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70Ft1bZIknFRyqI4RONtoF3O)
+- Android Worldwide
+  - [January (Jan 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70Ft1bZIknFRyqI4RONtoF3O)
+  - [April (Apr 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70GUtfuASzNNad9KTHnVZ49n&pp=iAQB)
+  - [July (Jul 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70Fg0R0-wFb5k_JyiP1jb9yD&pp=iAQB)
+  - [October (Oct 2021)](https://www.youtube.com/playlist?list=PLjQD4n5Df70GNpn2PDhjxggdbAAzBHkXL)
 
 ### Kotlin
 
@@ -49,6 +88,7 @@ It will be handy in case you missed any of the sessions or just want to go re-wa
 ### Android
 
 - [Droidcon APAC (Dec 2020)](https://www.droidcon.com/videos?path=%20droidcon%20APAC)
+- [Droidcon Italy (Nov 2020)](https://www.youtube.com/playlist?list=PL4ebO4PmeAi7MUNicINnxXjSo7l_gi--D)
 - [MobileOptimized (Nov 2020)](https://www.youtube.com/playlist?list=PLpVeA1tdgfCAEG_WDyLKoHDxmsGocQaX6)
 - [Droidcon Americas (Nov 2020)](https://www.droidcon.com/videos?path=droidcon%20Americas)
 - [Android Summit (Oct 2020)](https://www.youtube.com/playlist?list=PLzJZrgVJE8BYZvsHFe2M3FjjTmjbcT6hH)
